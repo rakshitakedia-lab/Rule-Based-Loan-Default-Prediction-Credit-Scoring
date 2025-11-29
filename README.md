@@ -16,7 +16,7 @@ This Python project evaluates a borrower’s creditworthiness based on financial
 
 **Clone the repository:**
 
-git clone <repository-url>
+git clone <https://github.com/rakshitakedia-lab/Rule-Based-Loan-Default-Prediction-Credit-Scoring.git>
 
 ### **Enter borrower details as prompted:**
 
